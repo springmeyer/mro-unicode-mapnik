@@ -12,3 +12,5 @@
 ## Test
 
     python render.py
+
+Should look like: ![](image.png)
